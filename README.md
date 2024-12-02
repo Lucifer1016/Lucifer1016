@@ -7,5 +7,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<progress id="Html" max="100" value="90"></progress>
+<progress id="Html" max="100" value="90">Html</progress>
 
