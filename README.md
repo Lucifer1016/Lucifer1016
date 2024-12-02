@@ -9,7 +9,7 @@
 </p>
 <div class="details" display="flex" flex-wrap="wrap">
   
-<img height= "150" src="https://github-readme-stats.vercel.app/api?username=Lucifer1016&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Lucifer1016&theme=react&show_icons=true&include_all_commits=true" />
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="right"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </div>
