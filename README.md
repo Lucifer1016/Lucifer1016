@@ -7,5 +7,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<progress id="Html" max="100" value="90">90%</progress>
-
+<p align="center">
+<img height= "150" src="https://github-readme-stats.vercel.app/api?username=Lucifer1016&theme=react&show_icons=true&include_all_commits=true" />
+</p>
