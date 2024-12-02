@@ -7,6 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<p align="center">
+<div class="details">
+  
 <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Lucifer1016&theme=react&show_icons=true&include_all_commits=true" />
-</p>
+</div>
